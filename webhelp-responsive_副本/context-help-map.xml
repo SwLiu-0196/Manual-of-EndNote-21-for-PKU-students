@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="download" path="download.html"/>
+   <appContext helpID="task_jwb_1wv_pzb" path="1%20下载与安装.html"/>
+   <appContext helpID="toubleshooting" path="1-1%20找不到软件？.html"/>
+   <appContext helpID="_2" path="2%20注册与登录.html"/>
+   <appContext helpID="managelib" path="managelib.html"/>
+   <appContext helpID="lib_0" path="lib_0.html"/>
+   <appContext helpID="whatislib" path="whatislib.html"/>
+   <appContext helpID="newlib" path="newlib.html"/>
+   <appContext helpID="addref" path="addref.html"/>
+   <appContext helpID="delref" path="delref.html"/>
+   <appContext helpID="delref1" path="delref1.html"/>
+   <appContext helpID="delref2" path="delref2.html"/>
+   <appContext helpID="delref3" path="delref3.html"/>
+   <appContext helpID="share" path="share.html"/>
+   <appContext helpID="g" path="g.html"/>
+   <appContext helpID="gr" path="whatisgroup.html"/>
+   <appContext helpID="newgr" path="newgr.html"/>
+   <appContext helpID="grman" path="grman.html"/>
+   <appContext helpID="addreftogr" path="addreftogr.html"/>
+   <appContext helpID="add1" path="add1.html"/>
+   <appContext helpID="add2" path="add2.html"/>
+   <appContext helpID="delgr" path="delgr.html"/>
+   <appContext helpID="tag" path="tag.html"/>
+   <appContext helpID="tag_0" path="whatistag.html"/>
+   <appContext helpID="newtag" path="newtag.html"/>
+   <appContext helpID="addreftotag" path="addreftotag.html"/>
+   <appContext helpID="addtotag1" path="addtotag1.html"/>
+   <appContext helpID="addtotag2" path="addtotag2.html"/>
+   <appContext helpID="deltag" path="deltag.html"/>
+   <appContext helpID="search" path="search.html"/>
+   <appContext helpID="spsearch" path="spsearch.html"/>
+   <appContext helpID="adsearch" path="adsearch.html"/>
+   <appContext helpID="chapter_2_adding_a_new_reference"
+               path="2_adding_a_new_reference.html"/>
+   <appContext helpID="import_citations" path="2.1_import_references.html"/>
+   <appContext helpID="import-cnki-to-endnote" path="2.1.1_import_from_cnki.html"/>
+   <appContext helpID="import-reference-task"
+               path="2.1.2_import_from_other_databases.html"/>
+   <appContext helpID="adding_within_endnote_21"
+               path="2.2_adding_within_endnote_21.html"/>
+   <appContext helpID="import-reference-task"
+               path="2.2.1_adding_by_online_search.html"/>
+   <appContext helpID="add-reference-task" path="2.2.2_type_in_the_reference.html"/>
+   <appContext helpID="doi-concept" path="2.3_what_is_doi.html"/>
+   <appContext helpID="databases_provided_by_the_pku_library"
+               path="2.4_databases_provided_by_the_pku_library.html"/>
+   <appContext helpID="failure_of_importing_from_outside_databases"
+               path="2.5_failure_of_importing_from_outside_databases.html"/>
+   <appContext helpID="insert" path="insert.html"/>
+   <appContext helpID="reference_tvw_ldx_pzb" path="4.1%20preparation%20.html"/>
+   <appContext helpID="task_dmk_tdx_pzb" path="4.1.1%20how%20to%20settle.html"/>
+   <appContext helpID="trouble_khv_sfx_pzb" path="4.1.2%20styles%20problem.html"/>
+   <appContext helpID="concept_pgj_ygx_pzb" path="4.2%20pre-insert.html"/>
+   <appContext helpID="task_kqy_r3x_pzb" path="4.2.1%20insert.html"/>
+   <appContext helpID="shareinc" path="shareinc.html"/>
+   <appContext helpID="_3" path="sync.html"/>
+   <appContext helpID="_6" path="4%20共享.html"/>
+</map>
