@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
+   <appContext helpID="introduction" path="introduction_to_endnote_21_en.html"/>
    <appContext helpID="download" path="download.html"/>
    <appContext helpID="task_jwb_1wv_pzb" path="1%20下载与安装.html"/>
    <appContext helpID="toubleshooting" path="1-1%20找不到软件？.html"/>
