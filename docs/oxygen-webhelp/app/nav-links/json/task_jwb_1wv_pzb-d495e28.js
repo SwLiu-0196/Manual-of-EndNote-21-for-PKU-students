@@ -1,1 +1,1 @@
-oxy_webhelp_navlinks = {"task_jwb_1wv_pzb-d495e28":{"topics":[{"title":"找不到软件？","href":"1-1%20找不到软件？.html","attributes":{"data-id":"toubleshooting"},"menu":{"hasChildren":false},"tocID":"toubleshooting-d495e41","topics":[]}]}};
+oxy_webhelp_navlinks = {"task_jwb_1wv_pzb-d495e28":{"topics":[{"title":"找不到软件？","href":"1.1.1_%20can't_find_endnote_21.html","attributes":{"data-id":"toubleshooting"},"menu":{"hasChildren":false},"tocID":"toubleshooting-d495e41","topics":[]}]}};
